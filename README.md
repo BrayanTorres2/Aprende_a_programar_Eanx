@@ -12,6 +12,7 @@ Quienes saben para qué sirve Python tienen claro que se utiliza en prácticamen
 **Aprendizaje automático.** Python es una herramienta esencial para todos los desarrolladores que quieran sumergirse en el campo del machine learning. Una de las bibliotecas más populares que utilizan los desarrolladores de todo el mundo para trabajar con Python aplicado al aprendizaje automático es TensorFlow. Se trata de un centro de recursos gratuito de código abierto desarrollado por el equipo de Google Brain. Esta biblioteca se utiliza para investigación y producción en Google.
 
 **Desarrollo web.** Python se utiliza en el campo del desarrollo web para construir el back-end de aplicaciones web.
+
 **Educación en Ciencias de la Computación.** Python se usa ampliamente como herramienta de enseñanza porque es fácil de aprender: su sintaxis es simple y se puede aprender rápidamente. Es potente y permite a los estudiantes comenzar a adquirir habilidades valiosas para sus carreras de inmediato, y es versátil, ya que admite varios paradigmas de programación como la programación imperativa, la programación funcional, la programación procedimental y la programación orientada a objetos
 .
 **Visión por ordenador y procesamiento de imágenes.** Permite a los desarrolladores integrar  funciones de detección de visión dentro de las aplicaciones de manera sencilla.
