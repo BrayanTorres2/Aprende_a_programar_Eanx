@@ -14,6 +14,7 @@ Quienes saben para qué sirve Python tienen claro que se utiliza en prácticamen
 **Desarrollo web.** Python se utiliza en el campo del desarrollo web para construir el back-end de aplicaciones web.
 
 **Educación en Ciencias de la Computación.** Python se usa ampliamente como herramienta de enseñanza porque es fácil de aprender: su sintaxis es simple y se puede aprender rápidamente. Es potente y permite a los estudiantes comenzar a adquirir habilidades valiosas para sus carreras de inmediato, y es versátil, ya que admite varios paradigmas de programación como la programación imperativa, la programación funcional, la programación procedimental y la programación orientada a objetos
+<br>
 .
 **Visión por ordenador y procesamiento de imágenes.** Permite a los desarrolladores integrar  funciones de detección de visión dentro de las aplicaciones de manera sencilla.
 
