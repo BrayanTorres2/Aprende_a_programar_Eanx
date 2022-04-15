@@ -1,4 +1,32 @@
 # Curso_De_Eanx
+## Qué es Python
+Python es un lenguaje de programación versátil multiplataforma y multiparadigma que se destaca por su código legible y limpio. La licencia de código abierto permite su utilización en distintos contextos sin la necesidad de abonar por ello y se emplea en plataformas de alto tráfico como Google, YouTube o Facebook.
+
+### Para qué sirve Python: objetivo
+Su objetivo es la automatización de procesos para ahorrar tanto complicaciones como tiempo, los dos pilares en cualquier tarea profesional. Dichos procesos se reducirán en pocas líneas de código que insertarás en una variedad de plataformas y sistemas operativos.
+
+Quienes saben para qué sirve Python tienen claro que se utiliza en prácticamente todas las industrias y campos científicos que pueda imaginarse, como:
+
+Ciencia de los datos. El poder de las bibliotecas Python desarrolladas para el análisis y visualización de datos es asombroso. Con una biblioteca de visualización de datos de Python, puede crearse una amplia variedad de gráficos y representaciones visuales de todo tipo.
+Aprendizaje automático. Python es una herramienta esencial para todos los desarrolladores que quieran sumergirse en el campo del machine learning. Una de las bibliotecas más populares que utilizan los desarrolladores de todo el mundo para trabajar con Python aplicado al aprendizaje automático es TensorFlow. Se trata de un centro de recursos gratuito de código abierto desarrollado por el equipo de Google Brain. Esta biblioteca se utiliza para investigación y producción en Google.
+Desarrollo web. Python se utiliza en el campo del desarrollo web para construir el back-end de aplicaciones web.
+Educación en Ciencias de la Computación. Python se usa ampliamente como herramienta de enseñanza porque es fácil de aprender: su sintaxis es simple y se puede aprender rápidamente. Es potente y permite a los estudiantes comenzar a adquirir habilidades valiosas para sus carreras de inmediato, y es versátil, ya que admite varios paradigmas de programación como la programación imperativa, la programación funcional, la programación procedimental y la programación orientada a objetos.
+Visión por ordenador y procesamiento de imágenes. Permite a los desarrolladores integrar  funciones de detección de visión dentro de las aplicaciones de manera sencilla.
+Desarrollo de juegos. Los juegos crean recuerdos atemporales y seguirán formando parte de nuestra sociedad en los próximos años. Python respalda la innovación aplicada a la creación de juegos.
+Medicina y Farmacología. Python también tiene aplicaciones asombrosas en el campo médico que mejoran la capacidad de brindar diagnósticos y tratamientos precisos y eficientes a los pacientes.
+Biología y Bioinformática. Sus aplicaciones en estos campos tienen que ver con el procesamiento de secuencias de ADN, la simulación de dinámica y genética de poblaciones y el modelado de estructuras bioquímicas.
+Neurociencia y Psicología. Tal y como se publica en un reciente artículo, "la computación se está volviendo esencial en todas las ciencias, para la adquisición y análisis de datos, la automatización y la prueba de hipótesis a través del modelado y simulación".
+Astronomía. Python también tiene aplicaciones en Astronomía y Astrofísica. Sus principales aportaciones a estas áreas son AstroPy, SunPy y SpacePy.
+Otras áreas como robótica, vehículos autónomos, negocios, meteorología y desarrollo de interfaces gráficas de usuario también se benefician del uso de Python.
+Razones para aprender Python
+Ahora que ya sabes para qué sirve Python, seguramente te habrás dado cuenta de que es ideal para trabajar con grandes volúmenes de datos porque favorece su extracción y procesamiento, siendo el elegido por las empresas de Big Data. A nivel científico, posee una amplia biblioteca de recursos con especial énfasis en las matemáticas para aspirantes a programadores en áreas especializadas. También es útil para crear videojuegos gracias a su dinamismo y simplicidad, aunque tratándose de un lenguaje de programación interpretado es más lento que Java, C++ o C#. Más allá de la función que le otorgues, Python cuenta con una comunidad de usuarios muy activos que comparten constantemente sus conocimientos y recursos en línea.
+
+PUBLICIDAD
+
+Características del lenguaje de programación Python
+Atrapa a los usuarios por su sencillez, legibilidad y exactitud en la sintaxis, entendida como el conjunto de reglas que se siguen al escribir un código pues se trata de lenguaje como cualquier otro empleado en la comunicación de ideas, aunque a nivel informático. Con unas pocas líneas de código podrás programar algoritmos complejos que arrojen resultados sofisticados, volviéndolo un lenguaje práctico y ahorrativo en materia de tiempo. Además, posee dialectos -variantes que se adaptan a otros lenguajes- como Python que se utiliza para escribir en Java, el lenguaje de programación más empleado en sitios y aplicaciones por su servicio completo.
+
+Para los fanáticos de la estética informática, podría catalogarse como un lenguaje elegante y casi minimalista. Comprueba los errores sobre la marcha para solucionarlos cuando afectan a la memoria, manteniendo la integridad de tu matriz y evitando las complicaciones a la hora de escribir el código. Con casi 30 años en el mercado, su antigüedad lo volvió un lenguaje sólido que maduró entre la comunidad de adeptos, siendo un indicador clave sobre su calidad y practicidad de uso. Finalmente, su enfoque en la funcionalidad es la causa principal que nos impulsa a recomendarte el aprendizaje de Python si estás pensando en ingresar al mundo de la programación.
 ## Google Colab: ciencia de datos
 
 **Subir archivos y usarlos en bloques de código**
