@@ -65,3 +65,6 @@ Cuando creamos un Notebook en Colab, este ya tiene algunas librerías instaladas
 - 📊 **seaborn**: Visualización de datos estadísticos.
 
 Algunas de estas librerías funcionan bien con Notebooks. Algunas proveen de métodos que al ejecutarlos nos muestran resultados gráficos, como gráficos estadísticos.
+
+
+## visita la pagina oficial para encontrar toda la documentación https://www.python.org/doc/ 
